@@ -1,0 +1,4 @@
+{
+  "/api/graph/extract/route": "app/api/graph/extract/route.js",
+  "/page": "app/page.js"
+}
